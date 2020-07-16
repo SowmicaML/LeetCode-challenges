@@ -1,6 +1,6 @@
 **********************************************************************
-"""
-Implement pow(x, n), which calculates x raised to the power n (xn).
+
+"""Implement pow(x, n), which calculates x raised to the power n (xn).
 
 Example 1:
 
